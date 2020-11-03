@@ -1,0 +1,21 @@
+{
+    "icons": [
+        {
+            "src": "icons/icon-192x192.png",
+            "sizes": "192x192",
+            "type": "image/png"
+        },
+        {
+            "src": "icons/icon-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
+        }
+    ],
+    "name": "Budget Tracker",
+    "short_name": "Budget",
+    "display": "standalone",
+    "start_url": "/",
+    "description": "This application allows you to track your budget online or offline!",
+    "background_color": "#ffffff",
+    "theme_color": "#ffffff"
+} 
